@@ -1,0 +1,23 @@
+{
+  "name": "util-api-cipher",
+  "version": "0.0.1",
+  "private": true,
+  "author": {
+    "name": "Geir Gåsodden",
+    "email": "geir.gasodden@pythonia.no",
+    "url": "https://github.com/zrrrzzt"
+  },
+  "scripts": {
+    "test": "mocha --reporter spec test/*.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "http://github.com/telemark/util-api-cipher.git"
+  },
+  "bugs": {
+    "url": "http://github.com/telemark/util-api-cipher/issues"
+  },
+  "devDependencies": {
+    "mocha": "^2.0.1"
+  }
+}
