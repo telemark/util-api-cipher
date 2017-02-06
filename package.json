@@ -18,6 +18,6 @@
     "url": "http://github.com/telemark/util-api-cipher/issues"
   },
   "devDependencies": {
-    "mocha": "^2.0.1"
+    "mocha": "^3.2.0"
   }
 }
